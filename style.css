@@ -1,0 +1,99 @@
+
+#container{
+    width: 600px;
+    height: 800px;
+    background-color: #BCD2EE;
+    margin: 0px 300px; 
+    text-align: center;
+}
+.picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-top: 20px;
+}
+h1 {
+    color: purple;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.positon {
+    margin-bottom: 30px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+hr {
+    border: 0.5px solid   
+}
+#activity {
+    margin: 40px;
+}
+.level {
+    margin-bottom: 0px;
+}
+.text {
+    margin-top: 5px;
+    font-size: 17px;
+}
+#follow {
+    display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #A2B5CD;
+  margin: auto 2px;
+  }
+.letter {
+    width: 100px;
+    height: 100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    }
+.bag {
+        width: 100px;
+        height: 100px;
+        align-items:stretch;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        padding: 0px 50px;
+        border-left: 1.5px solid;
+        border-right: 1.5px solid;
+        }
+.person {
+            width: 100px;
+            height: 100px;
+            align-items:stretch;
+            margin-top: 15px;
+            margin-bottom: 15px;
+
+            }
+
+    .social {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin: 50px 200px;
+    }
+    .facebook {
+        margin: 0 20px;
+        color: #3A5FCD;
+            }
+    .twitter {
+        margin: 0 20px;
+        color:#6495ED;
+    }
+    .instagram {
+        margin: 0 20px;
+        color: orange;
+    }
+    .youtube {
+        margin: 0 20px;
+        color: red;
+    }
+    .button {
+        width: 150px;
+        height: 50px;
+        background-color: orangered;
+        border-radius: 5px;
+        color: white;
+        font-size: 15px;
+    }
